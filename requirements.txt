@@ -3,4 +3,3 @@ tensorflow==2.13.0
 opencv-python
 numpy
 Pillow
-typing-extensions==4.10.0
